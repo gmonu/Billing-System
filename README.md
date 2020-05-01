@@ -6,6 +6,11 @@ Concepts:
                                1. Swing
                                2. AWT
                                3. Actionlistener, etc.
+                         MySql:
+                               1. MySql jdbc.
+                               2. Connection of database.
+                               3. DDL commands.
+                               4. DML commands.
 
 
 
