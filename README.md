@@ -1,5 +1,6 @@
 # Billing-System
 This Billing System software can used by any company that wants to generate the bills for their customers. 
+In this project this billing system is concerned with Electricity Billing system.
 
 Concepts:
                          Java Programming:
